@@ -210,6 +210,13 @@ button.secondary {
   color: var(--text-color);
 }
 
+a.button.secondary:hover,
+button.secondary:hover {
+  background-color: var(--link-hover-color);
+  color: var(--background-color);
+  transition: background-color 0.3s ease;
+}
+
 main img {
   max-width: 100%;
   width: auto;
