@@ -157,8 +157,6 @@ header nav .nav-sections {
   flex: 1 1 auto;
   display: none;
   visibility: hidden;
-  max-height: calc(100vh - var(--nav-height) * 2);
-  overflow-y: auto;
 }
 
 header nav[aria-expanded='true'] .nav-sections {
@@ -273,10 +271,10 @@ header nav .nav-sections ul > li > ul > li {
     text-decoration: none;
   }
 
-  header nav .nav-sections .default-content-wrapper > ul > li > ul > li:hover {
+  /* header nav .nav-sections .default-content-wrapper > ul > li > ul > li:hover {
     color: var(--link-hover-color);
     text-decoration: none;
-  }
+  } */
 }
 
 /* tools */
