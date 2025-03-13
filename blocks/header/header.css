@@ -1,6 +1,6 @@
 /* header and nav layout */
 header .nav-wrapper {
-  background-color: var(--link-color);
+  background: linear-gradient(to right, rgba(109, 207, 246, 1), rgba(29, 122, 207, 0.98));
   color: var(--background-color);
   width: 100%;
   z-index: 2;
