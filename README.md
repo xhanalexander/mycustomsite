@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Boneeto
+Boneeto is a modern web project built with AEM Franklin. It provides a fast, responsive website template with a clean design and optimized performance. The project uses AEM's latest features and best practices for content management and delivery.
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
